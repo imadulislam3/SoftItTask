@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoftItTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_home_screen">Drinks Recipes</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite_recipes">Favorite Recipes</string>
+    <string name="by_name">By Name</string>
+    <string name="by_first_alphabet">By First Alphabet</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="drink_name">Drink name</string>
+    <string name="drink_info">Rub the rim of the glass with the lime slice to make the salt stick to it. </string>
+</resources>
